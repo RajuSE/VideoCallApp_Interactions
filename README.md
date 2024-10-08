@@ -1,9 +1,9 @@
-# VideoCallApp_Interactions
-[![CallingApp CI/CD](https://github.com/RajuSE/Call_Interactions/actions/workflows/CallAppCICD.yml/badge.svg)](https://github.com/RajuSE/Call_Interactions/actions/workflows/CallAppCICD.yml)
+# VideoCallApp_Interactions [![CallingApp CI/CD](https://github.com/RajuSE/Call_Interactions/actions/workflows/CallAppCICD.yml/badge.svg)](https://github.com/RajuSE/Call_Interactions/actions/workflows/CallAppCICD.yml)
+
 Android Group Video Calling app UI interactions & animations in Kotlin, ConstraintLayout, gestures, animations of Group Video calling app.
 
-## Preview
 
+## Preview
 
 https://github.com/user-attachments/assets/3f4e8b49-e337-445b-b049-ed880298f9be
 
