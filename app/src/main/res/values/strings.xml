@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Call_Interactions</string>
+    <string name="connected">Connected</string>
+    <string name="remove">REMOVE</string>
+    <string name="add">ADD</string>
+    <string name="ringing">Ringing...</string>
+</resources>
